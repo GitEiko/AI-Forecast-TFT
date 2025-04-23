@@ -1,6 +1,6 @@
 # 🔮 FinCastAI – Time-Series Forecasting in Finance Using Transformer Models
 
-![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/fincastai?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/GitEiko/fincastai?style=social)
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-🔥-red)
 ![License](https://img.shields.io/github/license/yourusername/fincastai)
