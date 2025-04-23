@@ -56,7 +56,7 @@ Traditional models struggle with:
 
 ### ✅ Steps:
 
-1. **Download the executable** from the [Releases](https://github.com/yourusername/fincastai/releases) section.
+1. **Download the executable** from the [Releases](https://github.com/GitEiko/FinCastAI/releases) section.
 2. **Run it:**
    - **Windows:** Double-click `FinCastAI.exe`
    - **Linux/macOS:**
