@@ -49,3 +49,25 @@ Traditional models struggle with:
 - PyTorch Forecasting
 - yFinance
 - NumPy, Pandas, Matplotlib, Seaborn
+
+## 🔧 How to Run
+
+🎉 No Python installation or dependency setup required — everything is bundled in a standalone executable!
+
+### ✅ Steps:
+
+1. **Download the executable** from the [Releases](https://github.com/GitEiko/FinCastAI/releases) section.
+2. **Run it:**
+   - **Windows:** Double-click `FinCastAI.exe`
+   - **Linux/macOS:**
+     ```bash
+     chmod +x FinCastAI
+     ./FinCastAI
+     ```
+
+3. Follow the on-screen instructions to run predictions or explore results.
+
+### ⚙️ Notes:
+- All dependencies are included — no need to install anything else.
+- Built and tested for **Windows 10/11**.
+- Want a version for **macOS or Linux**? Open an issue or message me!
